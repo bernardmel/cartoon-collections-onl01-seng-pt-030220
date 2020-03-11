@@ -28,4 +28,3 @@ def find_the_cheese(array)# code an argument here
     return cheese[i] if array.include?(cheese[i])
     i =+ 1
   end
-end
